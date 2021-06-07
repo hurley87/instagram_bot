@@ -1,0 +1,17 @@
+{
+  "name": "instascrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.4",
+    "jest-cli": "^27.0.4",
+    "puppeteer": "^10.0.0",
+    "puppeteer-core": "^10.0.0"
+  }
+}
